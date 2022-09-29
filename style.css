@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+/*h1 {
+  text-align: center;
+}*/
+* {
+text-align: center;
+}
+ nav a {
+  padding: 10px;
+  background-color: hotpink;
+}
+figcaption {
+  font-size:medium;
+}
+#featured-property p {
+width: 800px;
+margin-top: 5px;
+
+}
+ div {
+float: left;
+background-color: hotpink;
+text-align: center;
+width:25%;
+}
+
